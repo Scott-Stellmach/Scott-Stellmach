@@ -18,8 +18,10 @@
   <p>
   Element.im:
   @scottstellmach:matrix.org
+    <p>
   Discord:
   FeonixFyre#4354
+      <p>
   Slack:
   mr.stellmach
   <p>
