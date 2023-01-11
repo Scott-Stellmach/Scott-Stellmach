@@ -10,6 +10,10 @@
 <p>
 👯 I’m looking to collaborate on anything backend and or AI related
 <p>
+  ⚡ Fun fact: I love Robotics and all things Space Related!
+  <p>
+  
+  
 📫 How to reach me:
   <p>
   Element.im:
@@ -28,17 +32,6 @@
 </div>
   <p>
  
-    <br />
-    
- ## 🧰 Languages and Tools:
-    <p>
-    Java
-    HTML
-    <p>
-    
-    
-  
-
 
 <!--
 **Scott-Stellmach/Scott-Stellmach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
