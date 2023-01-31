@@ -29,7 +29,7 @@
 <p>
     or tick the linkedin button bellow:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/scott-stellmach-926a13b9/">
+  <a href="https://www.linkedin.com/in/scottstellmachbackenddevelopment/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
   <p>
